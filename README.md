@@ -1,0 +1,2 @@
+# pslint
+linter for postgresql
